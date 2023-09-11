@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @honeydeepa1424
-- 👀 I’m interested in wotking with testing and sutomation projects
-- 🌱 I’m currently learning GIT and exploring the python projects.
+- 👀 I’m interested in working with testing and automation projects
+- 🌱 I’m currently learning GIT and exploring the python projects in the GIThub.
 - 💞️ I’m looking to collaborate on ...
   
 
